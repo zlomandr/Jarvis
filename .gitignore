@@ -1,0 +1,13 @@
+# ВАЖНО: это пользовательские данные — в репозиторий не выставлять!
+jarvis_memory.json
+jarvis_notes.txt
+jarvis_v2_opencode_session.txt
+screen_last.jpg
+screen_last.png
+sounds/
+*.ico
+
+# Python
+__pycache__/
+*.pyc
+.venv/

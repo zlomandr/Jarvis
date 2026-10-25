@@ -1,0 +1,10 @@
+customtkinter
+pyautogui
+edge-tts
+SpeechRecognition
+pyaudio
+pygame
+psutil
+requests
+numpy
+pillow
